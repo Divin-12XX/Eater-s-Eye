@@ -11,17 +11,17 @@ Eater's eye is a full-stack AI web application. Returns the nutritional contents
 This project uses:
 
 Frontend: 
-1. Vue.js - https://vuejs.org/guide/introduction.html
-2. Tailwind CSS - https://tailwindcss.com/docs/installation
-3. HMTL
+- Vue.js - https://vuejs.org/guide/introduction.html
+- Tailwind CSS - https://tailwindcss.com/docs/installation
+- HMTL
 
 Backend: 
-1. Python (Flask) - https://www.python.org/downloads/
-2. Google Vision API - https://cloud.google.com/vision/docs#docs
-3. CalorieNinja API - https://calorieninjas.com/api
+- Python (Flask) - https://www.python.org/downloads/
+- Google Vision API - https://cloud.google.com/vision/docs#docs
+- CalorieNinja API - https://calorieninjas.com/api
 
 Deployment:
-1. Vercel - https://vercel.com/docs
+- Vercel - https://vercel.com/docs
 
 
 &nbsp;
