@@ -1,6 +1,5 @@
 # Eaters-Eye
 
-# Eater's-Eye
 
 Eater's eye is a full-stack AI web application. Returns the nutritional contents of the food captured through camera or uploaded via files.
 
