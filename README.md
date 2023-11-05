@@ -1,2 +1,2 @@
-# Eater-s-Eye
+# Eaters-Eye
 Watch out for what you eat
